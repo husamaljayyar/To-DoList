@@ -1,0 +1,13 @@
+.btn {
+  width: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  height: 50px;
+  border-top-right-radius: 5px;
+  background: #000;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
